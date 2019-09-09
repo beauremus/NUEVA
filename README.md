@@ -1,2 +1,7 @@
 # NUEVA
-Class demo
+
+## Goals
+
+- Find API
+- Integrate API
+- Have fun
